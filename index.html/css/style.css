@@ -29,8 +29,8 @@ li {
 }
 
 img {
-    width: 600px;
-    height: 350px;
+    width: 50%;
+    height: 50%;
     position: fixed;
     top: 100px;
     right: 0;
