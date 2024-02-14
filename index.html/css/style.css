@@ -31,28 +31,30 @@ li {
 img {
     width: 50%;
     height: 50%;
-    position: fixed;
-    top: 100px;
-    right: 0;
+    position: relative;
+    top: 90px;
+    left: 650px;
 }
 
 div h2 {
     font-size: 45px;
+    position: absolute;
+    top: 360PX;
     font-weight: lighter;
     color: black;
 }
 
 .relative {
     position: relative;
-    top: 0px;
+    top: 200Px;
     left: 0px;
 }
 
 .blue-box {
     width: 900px;
-    height: 200px;
-    position: fixed;
-    top: 320px;
+    height: 150px;
+    position: absolute;
+    top: 480px;
     left: 0;
     z-index: -1;
     background-color: rgb(19, 19, 136);
